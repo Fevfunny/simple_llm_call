@@ -1,6 +1,3 @@
-# simple_llm_call
-🚀 Your "Hello World" guide to Large Language Models. This repo contains easy-to-follow Python scripts demonstrating how to handle prompt templates, chat history, and streaming with various AI providers.
-
 # Simple LLM Calls 🤖
 
 A repository dedicated to clear, concise examples of LLM integrations.
@@ -11,3 +8,19 @@ A repository dedicated to clear, concise examples of LLM integrations.
 * **Multi-Provider:** Support for OpenAI, Groq, and OpenRouter.
 
 ## 🛠️ Setup
+
+for setup you need to install all this tool's 
+
+* langchain
+* ipykernel
+* python-dotenv
+* langchain_community
+* pypdf
+* langchain-text-splitters
+* langchain-openai
+* langchain_google_genai
+* OpenAIEmbeddings
+
+`pip install -r requirements.txt`
+
+and also creat env 👽
